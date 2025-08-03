@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DocConnect/static/css/main.cd11b4c2.css",
-    "main.js": "/DocConnect/static/js/main.42bbc1c9.js",
+    "main.js": "/DocConnect/static/js/main.d5a70abc.js",
     "static/js/453.da9f03ef.chunk.js": "/DocConnect/static/js/453.da9f03ef.chunk.js",
     "index.html": "/DocConnect/index.html",
     "main.cd11b4c2.css.map": "/DocConnect/static/css/main.cd11b4c2.css.map",
-    "main.42bbc1c9.js.map": "/DocConnect/static/js/main.42bbc1c9.js.map",
+    "main.d5a70abc.js.map": "/DocConnect/static/js/main.d5a70abc.js.map",
     "453.da9f03ef.chunk.js.map": "/DocConnect/static/js/453.da9f03ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd11b4c2.css",
-    "static/js/main.42bbc1c9.js"
+    "static/js/main.d5a70abc.js"
   ]
 }
