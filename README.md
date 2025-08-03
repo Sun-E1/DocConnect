@@ -4,12 +4,6 @@
 
 ---
 
-## 🌐 Live Preview
-
-> _Add your deployment link here (e.g., Vercel, Netlify, GitHub Pages)_
-
----
-
 ## 🚀 Features
 
 - 🔍 **Searchable Doctor List**
